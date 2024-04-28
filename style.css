@@ -1,0 +1,55 @@
+av {
+   
+  overflow: hidden;
+}
+
+.right-menu {
+  float: right;
+}
+
+/* .right-menu  {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+ */
+ nav {
+ 
+  height: 80px;
+  margin: 5px 5px;
+}
+
+.right-menu {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+
+}
+
+.right-menu li {
+  margin-right: 19px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+ 
+  line-height: 48px;
+}
+.yyy{
+  margin-top:-100px;
+  width: 850px;
+}
+.button{
+  background-color: rebeccapurple;
+  color: white;
+  border-radius: 13px;
+  border-collapse: collapse;
+}
+.Written{
+  flex-direction: column;
+}
+
+  
+  
